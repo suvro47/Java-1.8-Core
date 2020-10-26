@@ -20,7 +20,10 @@ public class UserInput {
 		String str = scan.nextLine();
 		System.out.println(str);
 		
-		
+		/*  
+		 * we can also take input form user using bufferReader class object. 
+		 *  see Exception handling demo II
+		 */
 	}
 
 }

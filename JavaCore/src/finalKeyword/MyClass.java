@@ -9,12 +9,16 @@ package finalKeyword;
  * 
  */
 
-public class A {
+public class MyClass {
 	
 	public static void main( String[] args) {
 		
-		B obj = new B();
-		// obj.x = 10; not allowed | even within the same class
+	    final int x = 10;   // final in variable 
+		// x = 2; not allowed
+	    
+	    // we can not override a function that is defined with final keyword
+	    
+	    // final class can not be extends in sub class.
 		
 	}
 
