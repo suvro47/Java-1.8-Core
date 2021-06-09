@@ -1,4 +1,4 @@
-package unit1.basic.code;
+package unit1.basic_code;
 
 public class MyMethods {
 	
